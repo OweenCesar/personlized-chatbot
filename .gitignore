@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.joblib
+
+# Env / secrets
+.env
+*.env
+venv/
+.venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Local data / indexes
+faiss_index/
+*.sqlite
+119-e5b2a67bc547.json
